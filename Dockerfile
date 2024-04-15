@@ -16,4 +16,4 @@ RUN rm -rf /usr/share/nginx/html/* && rm -rf /etc/nginx/nginx.conf
 COPY ./nginx/nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /home/angular_ms/front/dist/* /usr/share/nginx/html
 
-EXPOSE 80
+EXPOSE 4200
