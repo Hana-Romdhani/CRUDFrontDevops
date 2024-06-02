@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Projet AngularJS avec CI/CD (Jenkins + Docker)
+
+## Description
+
+Ce projet est un exemple de pipeline CI/CD pour une application front-end AngularJS utilisant Jenkins et Docker. L'objectif est d'automatiser le processus de build, test et déploiement de l'application.
+![image](https://github.com/Hana-Romdhani/CRUDFrontDevops/assets/123480733/abb4c117-4aea-4563-b48c-2516460fbd25)
+
+## Prérequis
+
+Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre machine :
+
+- [Docker](https://www.docker.com/get-started)
+- [Jenkins](https://www.jenkins.io/download/)
+- [Node.js](https://nodejs.org/) et [npm](https://www.npmjs.com/)
+- [Angular CLI](https://cli.angular.io/)
+
+
+
+
